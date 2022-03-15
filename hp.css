@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+table{
+    width:55%;
+    height:35px;
+	margin-top: 60px;
+	text-align: center;
+	background: #E4C1F9;
+	color: #02020B;
+    padding: 25px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+#show th, #show td{
+	padding: 23px;
+    background-color:#F7EBEC;
+    color:#02020B;
+}
+
+#btna td input{
+	width: 50%;
+    color:#02020B;
+    
+}
+#btna {
+    margin-top: 20px;
+    background-color:lightgreen;
+
+}
+
+h1{
+    text-align:center;
+    text-decoration: underline;
+    color: rgb(10, 10, 10);
+    font-size: 30px;
+}
+
+body{
+    background: linear-gradient(to bottom, #cc66ff 0%, #ff99cc 100%);
+}
